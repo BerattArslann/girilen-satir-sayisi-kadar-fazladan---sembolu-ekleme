@@ -1,0 +1,1 @@
+# girilen-satir-sayisi-kadar-fazladan---sembolu-ekleme
